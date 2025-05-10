@@ -2,6 +2,7 @@
 
 - Matlab code for the paper: *"Nonlinear Learnable Triple-Domain Transform Tensor Nuclear Norm for Hyperspectral Image Super-Resolution"*, TGRS 2025.
 - Homepage: [https://xuhonghui96.github.io/](https://xuhonghui96.github.io/)
+If you have any questions, please contact xhh@zjut.edu.cn
 
 ## Get started
 
@@ -22,4 +23,4 @@ If you find this code helpful, please kindly cite:
   pages={1-17},
   doi={10.1109/TGRS.2025.3568627}}
 
-If you have any questions, please contact xhh@zjut.edu.cn
+
