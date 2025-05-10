@@ -1,4 +1,4 @@
-Official code files for Nonlinear Learnable Triple-Domain Transform for Hyperspectral Image Super-Resolution.
+matlab code files for Nonlinear Learnable Triple-Domain Transform for Hyperspectral Image Super-Resolution.
 
 @ARTICLE{xu2025,
   author={Xu, Honghui and Quan, Yueqian and Qin, Mengjie and Wang, Yibin and Fang, Chuangjie and Li, Yan and Zheng, Jianwei},
